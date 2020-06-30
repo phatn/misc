@@ -1,1 +1,9 @@
 *.pdf* filter=lfs diff=lfs merge=lfs -text
+FinanceMgmt.zip filter=lfs diff=lfs merge=lfs -text
+GIMPPortable_2.10.8.paf.exe.zip filter=lfs diff=lfs merge=lfs -text
+unikey43RC4-180714-win64.zip filter=lfs diff=lfs merge=lfs -text
+Linux[[:space:]]In[[:space:]]Action.pdf filter=lfs diff=lfs merge=lfs -text
+The[[:space:]]Linux[[:space:]]Command[[:space:]]Line.pdf filter=lfs diff=lfs merge=lfs -text
+Algorithm[[:space:]]Design.pdf filter=lfs diff=lfs merge=lfs -text
+Cracking[[:space:]]the[[:space:]]Coding[[:space:]]Interview[[:space:]]189[[:space:]]Programming[[:space:]]Questions[[:space:]]and[[:space:]]Solutions[[:space:]]6th[[:space:]]Edition.pdf filter=lfs diff=lfs merge=lfs -text
+LInux[[:space:]]for[[:space:]]Dummies.pdf filter=lfs diff=lfs merge=lfs -text
